@@ -57,7 +57,7 @@ public class TriviaAdapter extends RecyclerView.Adapter<TriviaAdapter.ViewHolder
     public static class ViewHolder extends RecyclerView.ViewHolder {
 
 
-        private TextView questionTv,answerTv;
+        private TextView questionTv, answerTv;
 
         public ViewHolder(View itemView) {
             super(itemView);
